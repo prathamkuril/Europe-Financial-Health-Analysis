@@ -2,6 +2,30 @@
 
 This project focuses on analyzing various financial metrics of industries in Europe, using datasets such as Market Capitalization, EVA (Economic Value Added), Gross Profit, and more. The objective is to clean, merge, and analyze these datasets, visualize the relationships between financial metrics, and filter industries based on different financial conditions.
 
+
+
+## Data Analysis Topic: Comparative Analysis of Industry Financial Health of Europe in  Year 2022 
+
+**Datasets Used:**
+1. Employee Statistics by Industry
+2. EVA and Equity EVA by Industry
+3. Market Capitalization by Industry
+4. Tax Rate by Industry
+5. Cost of Capital by Industry
+6. Operating Lease by Industry
+7. Total Beta by Industry Sector
+8. Dollar Value Measures by Industry
+
+**Dataset link:** https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html
+
+
+**Analytical Questions** 
+1. How does the financial health of different industries compare when considering metrics such as Economic Value Added (EVA), market capitalization, revenues, and profitability within a given year?
+2. How does the tax efficiency of industries impact their overall performance, and what correlations exist between tax rates, financial metrics, and profitability in that specific year?
+3. What insights can be gained by comparing the cost of capital and risk factors (beta, cost of debt) across different industries, and how do these factors influence financial performance and market dynamics in the given year?
+4. How do differences in operational aspects, such as operating leases and debt structures, affect operational income, Return on Invested Capital (ROIC), and pre-tax margins among various industries?
+5. In comparing dollar value metrics like market capitalization, book equity, enterprise value, and revenues across industries, what strengths and weaknesses unique to each industry emerge?
+
 ## Project Structure
 
 The project consists of the following key steps:
